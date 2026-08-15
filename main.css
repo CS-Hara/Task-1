@@ -40,10 +40,21 @@ body {
   color: #1a1a1a;
 }
 
+.title {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 44px;
+  leading-trim: NONE;
+  line-height: 160%;
+  letter-spacing: 0.2px;
+
+}
+
 main {
   max-width: 1440px;
   margin: 0 auto;
-  padding-top: 168px;
+  padding-top: 80px;
   padding-left: 160px;
   padding-right: 100px;
   padding-bottom: 60px;
